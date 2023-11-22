@@ -43,5 +43,6 @@ DO you want to continue adding topics? if 'yes' press 1 otherwise anything else:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
 
 Note: The question json file only contains three subjects questions Physics, Chemistry, Mathematics. You can use your sample data also. copy that json data in the file
-and name it as - let questions = [<Your Data>]
+and name it as - let questions = [<Your Data>]<br />
 
+OUTPUT: As an output you will get an PDF generated with questions.
